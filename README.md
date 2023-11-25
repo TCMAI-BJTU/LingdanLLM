@@ -1,6 +1,6 @@
-# ElixirQueryLLM
 
-<h1 align="center">灵丹问诊中医大模型</h1>
+
+<h1 align="center">灵丹问诊中医大模型 ElixirQueryLLM</h1>
 
 <div align="center">
 
