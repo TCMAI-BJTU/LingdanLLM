@@ -138,7 +138,7 @@
 
 
 **预训练参数设置**
-
+~~~
 model_name_or_path: Baichuan2-13B-Base
 finetuning_type: lora
 lora_target: W_pack
@@ -152,7 +152,7 @@ seed: 42
 quantization_bit: 4
 cutoff_len: 2048
 warmup_steps: 500
-
+~~~
 
 
 ## 项目引用
