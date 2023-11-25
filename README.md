@@ -130,7 +130,7 @@
 预训练过程的Loss曲线如下所示。
 
 
-<div align=left><img width = '200' src ="./image/pt_loss.png"/></div>  
+<div align=left><img width = '400' src ="./image/pt_loss.png"/></div>  
 
 
 **预训练参数设置**
