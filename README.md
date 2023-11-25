@@ -15,8 +15,8 @@
 ## 更新
 
 - [ ] 公开数据集上传
-- [ ] 预训练模型ElixirQueryLLM-13B-Base上传
-- [ ] 对话模型ElixirQueryLLM-13B-Chat上传
+- [ ] 预训练模型ElixirQueryLLM-Base-13B上传
+- [ ] 对话模型ElixirQueryLLM-Chat-13B上传
 - [ ] 下游任务评测
 - [ ] 可视化界面
 
