@@ -1,4 +1,4 @@
-# ElixirQuery
+# ElixirQueryLLM
 
 <h1 align="center">灵丹问诊中医大模型</h1>
 
