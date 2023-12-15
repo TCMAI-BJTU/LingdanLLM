@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[中文](README_CN.md) | [English](README_EN.md)**
+**[中文](README.md) | [English](README_EN.md)**
 </div>
 <div align=center><img width = '200' height ='200' src ="./image/logo.png"/></div>  
 
@@ -15,9 +15,9 @@
 ## 更新
 
 - [ ] 公开数据集上传
-- [ ] 预训练模型ElixirQueryLLM-Base-13B上传
-- [ ] 对话模型ElixirQueryLLM-Chat-13B上传
-- [ ] 下游任务评测
+- [ ] 预训练大模型Lingdan-Base-13B上传
+- [ ] 对话大模型Lingdan-TCPM-Chat-13B上传
+- [ ] 处方推荐大模型Lingdan-PR上传
 - [ ] 可视化界面
 
 ## 数据集
