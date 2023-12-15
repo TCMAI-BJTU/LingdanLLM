@@ -1,4 +1,4 @@
-<h1 align="center">灵丹问诊中医大模型</br>ElixirQueryLLM</h1>
+<h1 align="center">灵丹中医大模型</br>LingdanLLM</h1>
 
 <div align="center">
 
