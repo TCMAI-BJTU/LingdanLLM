@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[中文](README.md) | [English](README_EN.md)**
+**[中文](README.md) | [English](README.md)**
 </div>
 <div align=center><img width = '200' height ='200' src ="./image/logo.png"/></div>  
 
