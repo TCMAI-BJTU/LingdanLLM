@@ -74,7 +74,11 @@ Around **200K** Q&A on basic knowledge of TCPM, sourced from Drug Manuals and th
 
 
 
-## Model evaluation
+## Model
+
+### Lingdan Pretrained Model
+
+ In this study, we selected Baichuan2-13B-Base as the foundational model for training.
 
 ### Lingdan-TCPM-Chat Model
 
@@ -115,7 +119,7 @@ Around **200K** Q&A on basic knowledge of TCPM, sourced from Drug Manuals and th
 
 
 
-| **Model**               | NVIDIA A100-80G GPUs | card hours | **Token** |
+| **Model**               | NVIDIA A100-80G GPUs | Card Hours | **Token** |
 | :---------------------- | :------------------- | :--------- | :-------- |
 | **Lingdan Pre-trained** | 6                    | 208        | 304M      |
 | **Baichuan2-TCPM-Chat** | 1                    | 32         | 9.6M      |
