@@ -134,7 +134,7 @@ Around **200K** Q&A on basic knowledge of TCPM, sourced from Drug Manuals and th
 This work was completed in collaboration with the following organizations:
 
 1. Institute of Medical Intelligence, Beijing Key Lab of Traffic Data Analysis and Mining, School of Computer and Information Technology, Beijing Jiaotong University
-2. Cloudphar Pharmaceuticals Co., Ltd., Shenzhen
+2. Tasly Pharmaceutical Group Co., Ltd., Tianjin
 3. Department of Gastroenterology, Guang’anmen Hospital, China Academy of Chinese Medical Sciences
 
 The mentor of this work is Professor [Zhou Xuezhong](https://www.researchgate.net/profile/Xuezhong-Zhou).
