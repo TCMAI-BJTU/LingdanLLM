@@ -18,15 +18,23 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 ## TODO
 
 
-- [ ] Upload public dataset of each model
+- [x] Upload public dataset of each model
 
-- [ ]  Upload Lingdan Pre-trained Model
+- [x]  Upload Lingdan Pre-trained Model
 
-- [ ]  Upload Lingdan-TCPM-Chat Model
+- [x]  Upload Lingdan-TCPM-Chat Model
 
-- [ ]  Upload Lindan-PR Model
+- [x]  Upload Lindan-PR Model
 
-  
+## Model list
+
+| **Model**                    | **Link** |
+| ---------------------------------- | --------- |
+| **Lingdan Pre-trained Model** | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-Base)    |
+| **Lingdan-TCPM-Chat**      | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-Chat)     |
+| **Lingdan-PR**                   | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-RP)      |
+
+
 
 ## Dataset
 
@@ -50,13 +58,13 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 | **Role**    | **Text**                                                     |
 | ----------- | ------------------------------------------------------------ |
 | **User**    | 医生，我最近总是感觉胃胀，而且便秘，吃东西也没有胃口，这是怎么了？  <br />Doctor, I've been  feeling bloated lately and constipated. I also don't have much appetite.  What's wrong with me? |
-| **ChatGPT** | 根据您的症状，可能是脾胃不和，痰食阻滞导致的积滞。您有停食或停乳的情况吗？还有没有其他的症状，比如喘咳或者是感觉痰多？  <br />Based on your symptoms, it could be  accumulation stagnation caused by disharmony between the spleen and stomach,  and phlegm and food stagnation. Do you experience food refusal or weaning?  Are there any other symptoms, such as wheezing cough or feeling of excessive  phlegm? |
+| **Assistant** | 根据您的症状，可能是脾胃不和，痰食阻滞导致的积滞。您有停食或停乳的情况吗？还有没有其他的症状，比如喘咳或者是感觉痰多？  <br />Based on your symptoms, it could be  accumulation stagnation caused by disharmony between the spleen and stomach,  and phlegm and food stagnation. Do you experience food refusal or weaning?  Are there any other symptoms, such as wheezing cough or feeling of excessive  phlegm? |
 | **User**    | 对，我确实感觉痰多，而且有时候会有轻微的喘息。  <br />Yes, I do feel like I have a lot of phlegm,  and sometimes I experience mild wheezing. |
-| **ChatGPT** | 这些症状符合食滞证的表现。您可以尝试使用中成药一捻金，它具有消食导滞，祛痰通便的功效。  <br />These symptoms are consistent with the  presentation of Food Stagnation Syndrome. You might try the traditional  Chinese patent medicine Yi Nian Jin, which helps in relieving indigestion and  stagnation, expelling phlegm, and facilitating bowel movements. |
+| **Assistant** | 这些症状符合食滞证的表现。您可以尝试使用中成药一捻金，它具有消食导滞，祛痰通便的功效。  <br />These symptoms are consistent with the  presentation of Food Stagnation Syndrome. You might try the traditional  Chinese patent medicine Yi Nian Jin, which helps in relieving indigestion and  stagnation, expelling phlegm, and facilitating bowel movements. |
 | **User**    | 一捻金是由哪些中药组成的？会不会有副作用？ <br /> What are the ingredients of Yi Nian Jin? Are  there any side effects? |
-| **ChatGPT** | 一捻金的主要成分包括大黄、炒牵牛子、槟榔、人参和朱砂。大黄100克，炒牵牛子200克，槟榔和人参各100克，朱砂30克。通常情况下，按照推荐的剂量服用是安全的，但每个人的体质不同，如果有任何不适，请及时停药并咨询医生。 <br /> The main ingredients of Yi Nian Jin include  Rhubarb, Fried Morning Glory Seeds, Betel Nut, Ginseng, and Cinnabar. The  formulation is 100 grams of Rhubarb, 200 grams of Fried Morning Glory Seeds,  100 grams each of Betel Nut and Ginseng, and 30 grams of Cinnabar. It is  generally safe when taken in recommended doses, but individual responses can  vary. If you experience any discomfort, stop taking it immediately and  consult a doctor. |
+| **Assistant** | 一捻金的主要成分包括大黄、炒牵牛子、槟榔、人参和朱砂。大黄100克，炒牵牛子200克，槟榔和人参各100克，朱砂30克。通常情况下，按照推荐的剂量服用是安全的，但每个人的体质不同，如果有任何不适，请及时停药并咨询医生。 <br /> The main ingredients of Yi Nian Jin include  Rhubarb, Fried Morning Glory Seeds, Betel Nut, Ginseng, and Cinnabar. The  formulation is 100 grams of Rhubarb, 200 grams of Fried Morning Glory Seeds,  100 grams each of Betel Nut and Ginseng, and 30 grams of Cinnabar. It is  generally safe when taken in recommended doses, but individual responses can  vary. If you experience any discomfort, stop taking it immediately and  consult a doctor. |
 | **User**    | 了解了，我应该怎么服用，有没有什么特别的指导呢？  <br />Got it. How should I take it? Are there any  specific instructions? |
-| **ChatGPT** | 具体服用方法和剂量应该根据个人情况和医生的建议来定。通常，成人的剂量会根据不同的病情来调整。请在开始服用前咨询专业医生，他们会根据您的具体情况给出最合适的建议。  The specific method and dosage should be based  on individual circumstances and the advice of a doctor. Usually, the dosage  for adults is adjusted according to different conditions. Please consult a  professional doctor before starting, as they can offer the most appropriate  advice for your specific situation. |
+| **Assistant** | 具体服用方法和剂量应该根据个人情况和医生的建议来定。通常，成人的剂量会根据不同的病情来调整。请在开始服用前咨询专业医生，他们会根据您的具体情况给出最合适的建议。  The specific method and dosage should be based  on individual circumstances and the advice of a doctor. Usually, the dosage  for adults is adjusted according to different conditions. Please consult a  professional doctor before starting, as they can offer the most appropriate  advice for your specific situation. |
 
 #### Single-turn dialogue dataset
 
