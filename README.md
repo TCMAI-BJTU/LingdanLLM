@@ -42,7 +42,7 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 
 | **Data source**                    | **Token** |
 | ---------------------------------- | --------- |
-| **TCM Ancient Books (Vernacular)** | 132M      |
+| **TCM Ancient Books (Modern Chinese Language)** | 132M      |
 | **TCM Educational Materials**      | 8M        |
 | **Drug Manuals**                   | 12M       |
 | **Chinese Pharmacopoeia**          | 940K      |
