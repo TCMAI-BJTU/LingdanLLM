@@ -145,7 +145,7 @@ This work was completed in collaboration with the following organizations:
 2. Tasly Pharmaceutical Group Co., Ltd., Tianjin
 3. Department of Gastroenterology, Guang’anmen Hospital, China Academy of Chinese Medical Sciences
 
-The mentor of this work is Professor [Zhou Xuezhong](https://www.researchgate.net/profile/Xuezhong-Zhou).
+The mentor of this work is Professor [Xuezhong Zhou](https://www.researchgate.net/profile/Xuezhong-Zhou).
 
 If you would like to cite this work, please use the following format:
 
