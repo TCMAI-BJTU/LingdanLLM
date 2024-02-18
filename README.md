@@ -22,7 +22,7 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 
 - [x]  Upload Lingdan Pre-trained Model
 
-- [x]  Upload Lingdan-TCPM-Chat Model
+- [ ]  Upload Lingdan-TCPM-Chat Model
 
 - [x]  Upload Lindan-PR Model
 
@@ -37,6 +37,8 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 
 
 ## Dataset
+
+Data for each model can be found in the [data](./data/) directory.
 
 ### Pre-training dataset
 
