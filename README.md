@@ -22,7 +22,7 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 
 - [x]  Upload Lingdan Pre-trained Model
 
-- [ ]  Upload Lingdan-TCPM-Chat Model
+- [x]  Upload Lingdan-TCPM-Chat Model
 
 - [x]  Upload Lindan-PR Model
 
@@ -32,7 +32,7 @@ The framework and workflow of this study. We introduce the Lingdan Pre-trained M
 | ---------------------------------- | --------- |
 | **Lingdan Pre-trained Model** | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-Base)    |
 | **Lingdan-TCPM-Chat**      | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-Chat)     |
-| **Lingdan-PR**                   | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-RP)      |
+| **Lingdan-PR**                   | [huggingface](https://huggingface.co/TCMLLM/Lingdan-13B-PR)      |
 
 
 
