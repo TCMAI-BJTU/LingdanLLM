@@ -160,6 +160,15 @@ If you would like to cite this work, please use the following format:
       journal = {GitHub repository},
       howpublished = {\url{https://github.com/TCMAI-BJTU/LingdanLLM}},
 }
+
+@article{hua2024lingdan,
+  title={Lingdan: enhancing encoding of traditional Chinese medicine knowledge for clinical reasoning tasks with large language models},
+  author={Hua, Rui and Dong, Xin and Wei, Yu and Shu, Zixin and Yang, Pengcheng and Hu, Yunhui and Zhou, Shuiping and Sun, He and Yan, Kaijing and Yan, Xijun and others},
+  journal={Journal of the American Medical Informatics Association},
+  pages={ocae087},
+  year={2024},
+  publisher={Oxford University Press}
+}
 ```
 
 **Acknowledgements**
