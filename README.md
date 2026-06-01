@@ -2,6 +2,13 @@
 
 <div align=center><img width = '200' height ='200' src ="./image/logo.png"/></div>  
 
+<p align="center">
+  <a href="http://tcmai.chat/">🌐 Official Website / 在线体验</a>
+</p>
+
+<p align="center">
+  <strong>🎉 全新模型 Lingdan-R1 现已上线！</strong>
+</p>
 
 ## Introduction
 
