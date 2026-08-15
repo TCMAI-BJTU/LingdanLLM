@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>🎉 The all-new <a href="https://github.com/TCMAI-BJTU/Lingdan-V2">Lingdan-R1</a> model is now available! </strong>
+  <strong>🎉 The new <a href="https://github.com/TCMAI-BJTU/Lingdan-V2">Lingdan-R1</a> model is now available! </strong>
 </p>
 
 ## Introduction
